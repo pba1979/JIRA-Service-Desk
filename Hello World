@@ -1,7 +1,7 @@
 public class HelloWorld {
 
     public static void main(String[] args) {
-       
+       //utskrift..
         System.out.println("Hello, World. Dette er en test");
     }
 
